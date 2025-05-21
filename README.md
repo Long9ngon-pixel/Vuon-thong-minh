@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="../logo/logo.png" alt="DaiNam University Logo" width="200"/>
-  <img src="AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
+  <img src="../logo/AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -143,7 +143,7 @@ pip install numpy pandas flask tensorflow scikit-learn matplotlib pyserial
 
 ## 📰 Poster
 <p align="center">
-  <img src="Poster.JPG" alt="Smart Garden Poster" width="800"/>
+  <img src="../logo/Poster.JPG" alt="Smart Garden Poster" width="800"/>
 </p>
 
 ## 🤝 Đóng góp

@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="../logo/logo.png" alt="DaiNam University Logo" width="200"/>
   <img src="AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
 </p>
 

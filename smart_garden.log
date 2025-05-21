@@ -1,0 +1,12 @@
+2025-04-12 07:08:32,191 - INFO - Loading YOLOv8 model from yolov8n.pt
+2025-04-12 07:08:32,261 - INFO - YOLOv8 model loaded successfully
+2025-04-12 07:08:33,212 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6005
+ * Running on http://192.168.0.108:6005
+2025-04-12 07:08:33,212 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-12 07:08:33,213 - INFO -  * Restarting with stat
+2025-04-12 07:08:39,552 - INFO - Loading YOLOv8 model from yolov8n.pt
+2025-04-12 07:08:39,584 - INFO - YOLOv8 model loaded successfully
+2025-04-12 07:08:39,605 - WARNING -  * Debugger is active!
+2025-04-12 07:08:39,608 - INFO -  * Debugger PIN: 740-531-636

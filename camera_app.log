@@ -1,0 +1,90 @@
+2025-04-12 00:06:07,073 - INFO - InsightFace initialized successfully
+2025-04-12 00:06:09,617 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6005
+ * Running on http://192.168.0.108:6005
+2025-04-12 00:06:09,617 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-12 00:06:09,619 - INFO -  * Restarting with stat
+2025-04-12 00:06:14,710 - INFO - InsightFace initialized successfully
+2025-04-12 00:06:16,585 - WARNING -  * Debugger is active!
+2025-04-12 00:06:16,591 - INFO -  * Debugger PIN: 740-531-636
+2025-04-12 00:06:16,736 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:16] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:16,736 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:16] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:16,737 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:16] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:27,643 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:27] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:31,636 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:31] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:34,637 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:34] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:45,631 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:45] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:49,633 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:49] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:06:52,640 - INFO - 192.168.0.108 - - [12/Apr/2025 00:06:52] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:07:03,634 - INFO - 192.168.0.108 - - [12/Apr/2025 00:07:03] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:07:07,628 - INFO - 192.168.0.108 - - [12/Apr/2025 00:07:07] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:07:10,638 - INFO - 192.168.0.108 - - [12/Apr/2025 00:07:10] "[33mGET /api/camera_stats HTTP/1.1[0m" 404 -
+2025-04-12 00:08:51,788 - INFO - InsightFace initialized successfully
+2025-04-12 00:08:52,371 - INFO - YOLOv8 model loaded successfully from yolov8n.pt
+2025-04-12 00:08:53,383 - INFO - Starting camera reader thread with URL: http://192.168.0.111:81/stream
+2025-04-12 00:08:53,383 - INFO - Attempting to connect to ESP32-CAM at http://192.168.0.111:81/stream
+2025-04-12 00:08:53,383 - INFO - Starting object detection thread
+2025-04-12 00:08:53,383 - INFO - ESP32-CAM system started with separate threads
+2025-04-12 00:08:53,437 - INFO - ESP32-CAM stream connection established
+2025-04-12 00:08:54,267 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6005
+ * Running on http://192.168.0.108:6005
+2025-04-12 00:08:54,267 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-12 00:08:54,270 - INFO -  * Restarting with stat
+2025-04-12 00:08:59,225 - INFO - InsightFace initialized successfully
+2025-04-12 00:08:59,913 - INFO - YOLOv8 model loaded successfully from yolov8n.pt
+2025-04-12 00:09:01,035 - INFO - Starting camera reader thread with URL: http://192.168.0.111:81/stream
+2025-04-12 00:09:01,036 - INFO - Attempting to connect to ESP32-CAM at http://192.168.0.111:81/stream
+2025-04-12 00:09:01,036 - INFO - Starting object detection thread
+2025-04-12 00:09:01,036 - INFO - ESP32-CAM system started with separate threads
+2025-04-12 00:09:01,055 - WARNING -  * Debugger is active!
+2025-04-12 00:09:01,062 - INFO -  * Debugger PIN: 740-531-636
+2025-04-12 00:09:01,627 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:01] "GET /api/camera_stats HTTP/1.1" 200 -
+2025-04-12 00:09:05,628 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:05] "GET /api/camera_stats HTTP/1.1" 200 -
+2025-04-12 00:09:08,634 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:08] "GET /api/camera_stats HTTP/1.1" 200 -
+2025-04-12 00:09:11,630 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:11] "GET /api/camera_stats HTTP/1.1" 200 -
+2025-04-12 00:09:14,636 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:14] "GET /api/camera_stats HTTP/1.1" 200 -
+2025-04-12 00:09:26,162 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:26] "GET /api/camera_stats HTTP/1.1" 200 -
+2025-04-12 00:09:28,629 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:28] "GET /api/camera_stats HTTP/1.1" 200 -
+2025-04-12 00:09:28,833 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:28] "[32mGET /camera HTTP/1.1[0m" 308 -
+2025-04-12 00:09:28,880 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:28] "[35m[1mGET /camera/ HTTP/1.1[0m" 500 -
+2025-04-12 00:09:28,983 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:28] "GET /camera/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-12 00:09:28,989 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:28] "GET /camera/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-12 00:09:29,125 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:29] "GET /camera/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-12 00:09:29,314 - INFO - 192.168.0.108 - - [12/Apr/2025 00:09:29] "[36mGET /camera/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-12 00:09:31,138 - WARNING - Cannot open stream. Retry 1/5...
+2025-04-12 00:09:34,140 - INFO - Attempting to connect to ESP32-CAM at http://192.168.0.111:81/stream
+2025-04-12 00:10:04,408 - INFO - InsightFace initialized successfully
+2025-04-12 00:10:04,989 - INFO - YOLOv8 model loaded successfully from yolov8n.pt
+2025-04-12 00:10:06,019 - INFO - Starting camera reader thread with URL: http://192.168.0.111:81/stream
+2025-04-12 00:10:06,019 - INFO - Attempting to connect to ESP32-CAM at http://192.168.0.111:81/stream
+2025-04-12 00:10:06,020 - INFO - Starting object detection thread
+2025-04-12 00:10:06,020 - INFO - ESP32-CAM system started with separate threads
+2025-04-12 00:10:06,060 - INFO - ESP32-CAM stream connection established
+2025-04-12 00:10:06,885 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6005
+ * Running on http://192.168.0.108:6005
+2025-04-12 00:10:06,886 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-12 00:10:06,888 - INFO -  * Restarting with stat
+2025-04-12 00:10:12,075 - INFO - InsightFace initialized successfully
+2025-04-12 00:10:12,755 - INFO - YOLOv8 model loaded successfully from yolov8n.pt
+2025-04-12 00:10:13,912 - INFO - Starting camera reader thread with URL: http://192.168.0.111:81/stream
+2025-04-12 00:10:13,912 - INFO - Attempting to connect to ESP32-CAM at http://192.168.0.111:81/stream
+2025-04-12 00:10:13,912 - INFO - Starting object detection thread
+2025-04-12 00:10:13,912 - INFO - ESP32-CAM system started with separate threads
+2025-04-12 00:10:13,928 - WARNING -  * Debugger is active!
+2025-04-12 00:10:13,933 - INFO -  * Debugger PIN: 740-531-636
+2025-04-12 00:10:14,096 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:14] "GET / HTTP/1.1" 200 -
+2025-04-12 00:10:14,167 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:14] "[36mGET /static/js/integration.js HTTP/1.1[0m" 304 -
+2025-04-12 00:10:14,367 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:14] "[33mPOST /arduino HTTP/1.1[0m" 404 -
+2025-04-12 00:10:16,335 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:16] "[33mPOST /face_auth HTTP/1.1[0m" 404 -
+2025-04-12 00:10:16,369 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:16] "[33mGET /auth_status HTTP/1.1[0m" 404 -
+2025-04-12 00:10:18,383 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:18] "[33mGET /auth_status HTTP/1.1[0m" 404 -
+2025-04-12 00:10:19,421 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:19] "[33mPOST /face_auth HTTP/1.1[0m" 404 -
+2025-04-12 00:10:20,379 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:20] "[33mGET /auth_status HTTP/1.1[0m" 404 -
+2025-04-12 00:10:20,522 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:20] "[33mPOST /face_auth HTTP/1.1[0m" 404 -
+2025-04-12 00:10:22,382 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:22] "[33mGET /auth_status HTTP/1.1[0m" 404 -
+2025-04-12 00:10:24,640 - INFO - 192.168.0.108 - - [12/Apr/2025 00:10:24] "[33mGET /auth_status HTTP/1.1[0m" 404 -

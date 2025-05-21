@@ -31,7 +31,7 @@
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="Picture1.png" alt="System Architecture" width="800"/>
+  <img src="logo/Model.png" alt="System Architecture" width="800"/>
 </p>
 
 ---
